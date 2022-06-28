@@ -1,0 +1,46 @@
+{
+  "name": "jijivisa",
+  "version": "1.0.0",
+  "description": "The official JSON of the Heralds of Jijivisa. BEST JSON EVER!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test specified.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeruleanArc/Heralds-of-Jijivisa.git"
+  },
+  "keywords": [
+    "jijivisa",
+    "heralds",
+    "mateus",
+    "ffxiv",
+    "rp",
+    "roleplay",
+    "mmo",
+    "mmorpg",
+    "rpg",
+    "story",
+    "writing",
+    "crystal",
+    "community",
+    "fc",
+    "free",
+    "company",
+    "grand",
+    "events"
+  ],
+  "author": "J. E. Burgos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeruleanArc/Heralds-of-Jijivisa/issues"
+  },
+  "homepage": "https://github.com/CeruleanArc/Heralds-of-Jijivisa#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "firebase": "^9.8.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
